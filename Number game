@@ -1,0 +1,8 @@
+import random
+my_number = random.randint(1,10)
+my_float = random.random()
+print(my_float)
+print(my_number)
+text="malasia"
+my_alpha=random.choice(text)
+print(my_alpha)
